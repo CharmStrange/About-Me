@@ -4,5 +4,6 @@
 [이름]의 github 입니다. 
 
 * { STUDY }https://github.com/CharmStrange/Study
-* { PROJECT }
-* { SNIPPET }
+* { PROJECT }https://github.com/CharmStrange/Project
+* { SNIPPET }https://github.com/CharmStrange/Snippet
+- - -
